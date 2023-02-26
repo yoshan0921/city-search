@@ -1,3 +1,3 @@
-# codesandbox-react-city-search
+# city-search
 
 GeoDB Cities
